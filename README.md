@@ -4,6 +4,16 @@ Plataforma web para aprender a reconocer aves de Chile por su **nombre**, su **c
 
 Es 100% estática (HTML + CSS + JavaScript, sin frameworks ni backend). Se puede abrir directamente en el navegador o publicar gratis con **GitHub Pages**.
 
+## 🎓 Concepto pedagógico
+
+El reconocimiento de aves en terreno se hace, la mayoría de las veces, **de oído**: se escucha antes de ver. Por eso la app pone el **canto como interfaz principal** de aprendizaje, apoyándose en tres ideas:
+
+1. **Aprendizaje multimodal:** cada especie une **canto + imagen + nombre** para reforzar la memoria por asociación.
+2. **Exposición antes que evaluación:** primero *Aprender* (exploración libre), luego el *Juego*, para construir el modelo mental antes de ser evaluado.
+3. **Reconocimiento activo con feedback inmediato:** el juego obliga a discriminar entre especies (auditiva, visual o por nombre) y entrega retroalimentación al instante, que es lo que consolida el aprendizaje.
+
+El sonido es **interfaz activa**, no música de fondo: en el modo auditivo, el canto es la única pista. La meta de aprendizaje es alcanzar el **100% de acierto** identificando las especies.
+
 ## ✨ Qué incluye
 
 - **Inicio** — un borde de roca estilo cordillera donde se posan las aves (PNG parado). Al pasar el mouse por encima, el ave abre las alas (PNG alas abiertas), muestra su nombre arriba y suena su canto.
@@ -70,3 +80,4 @@ pajaros-chile/
 └── assets/           # (opcional) archivos versionados en el repo
     ├── images/  standing/  open/  sounds/
 ```
+
