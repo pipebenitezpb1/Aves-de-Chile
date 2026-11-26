@@ -81,3 +81,28 @@ pajaros-chile/
     ├── images/  standing/  open/  sounds/
 ```
 
+---
+
+## Ficha para el Taller de Diseño de Interfaces
+
+**Unidad 1 · Interfaces Sonoras · Entrega 2** · Taller de Diseño de Interfaces, Universidad Adolfo Ibáñez · 2026 · Ficha en el portafolio: [https://portafolio.insta3d.cl/aves-de-chile/](https://portafolio.insta3d.cl/aves-de-chile/)
+
+### Objetivos
+- Diseñar una interfaz donde el audio sea la entrada principal de información.
+- Enseñar a reconocer 10 aves chilenas por su canto real.
+- Convertir el aprendizaje en juego con retroalimentación inmediata.
+
+### Público y contexto de uso
+Estudiantes, familias y personas que observan aves; se usa en el celular, en terreno o en clases.
+
+### Proceso e iteraciones
+1. Plataforma base por nombre, canto y apariencia.
+2. 10 aves reales con ilustraciones y 9 cantos.
+3. Portada ilustrada con aves animadas.
+4. Ajuste para celular y compresión de cantos (12 MB → ~0,9 MB).
+5. Nuevo juego «Encuentra el ave».
+
+> 📌 **Por aportar:** bocetos o wireframes, capturas de cada versión y notas de pruebas con usuarios. Confirmar autoría: este repositorio es un fork del original.
+
+### Video demostrativo
+> 📌 **Por aportar:** video recorriendo la app y un juego, subido a YouTube y enlazado aquí.
